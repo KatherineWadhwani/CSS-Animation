@@ -1,2 +1,3 @@
 # CSS-Animation
-Study of CSS via Dynamic Gradient Background
+<b>Author: <\b> Katherine Wadhwani
+<b>Purpose: <\b> Study of CSS and Web Design via Dynamic Gradient Background
